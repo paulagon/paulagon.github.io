@@ -153,9 +153,7 @@
 	#logo
 	{
 		margin-bottom: 3em;
-	}
-	
-		
+	}	
 	
 		#logo h1
 		{
@@ -163,9 +161,9 @@
 			letter-spacing: 1px;
 			text-decoration: none;
 			text-transform: uppercase;
-			font-size: 100em;
+			font-size: 2em;
 			font-weight: 900;
-			color: #FFF;
+			color: red;
 		}
 
 		#logo h2
