@@ -163,13 +163,9 @@
 			letter-spacing: 1px;
 			text-decoration: none;
 			text-transform: uppercase;
-			font-size: 10em;
+			font-size: 100em;
 			font-weight: 900;
 			color: #FFF;
-		}
-		#logo h2 
-		{
-			text-color:red;
 		}
 
 		#logo h2
