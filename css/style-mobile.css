@@ -159,7 +159,6 @@
 	
 		#logo h1
 		{
-			color: #FFF;
 			display: block;
 			letter-spacing: 1px;
 			text-decoration: none;
@@ -168,7 +167,8 @@
 			font-weight: 900;
 			color: #FFF;
 		}
-		#logo h2 {
+		#logo h2 
+		{
 			text-color:red;
 		}
 
