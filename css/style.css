@@ -342,7 +342,7 @@
 
 	#header
 	{
-		position: relative;
+		position: absolute;
 		background: #2a2f27 url(../images/NatGeoCrop.jpg) no-repeat;
 		background-size: cover;
 	}
@@ -368,8 +368,9 @@
 	#Quote-header {
 		text-align: left;
 		color: #FFFFFF;
-		font-size:1em;
+		font-size:1.5em;
 		padding-bottom:2em;
+		font-family:'Sansita One', cursive;
 	}
 
 	#Quote h1 {
@@ -453,6 +454,14 @@
 		font-size:1.7em;
 		text-align:center;
 	}
+
+	#about-text-lead {
+		padding-bottom:1em;
+		font-size:1.2em;
+	}
+	#about-text p{
+		font-size:1.2em;
+	}
 	#projects-text p{
 		font-size:2em;
 		text-align: center;
@@ -514,6 +523,7 @@
 		letter-spacing: 1px;
 		text-align: center;
 		color: rgba(255,255,255,.2);
+		margin-bottom: 0em;
 	}
 	
 	#copyright .container
@@ -524,4 +534,13 @@
 	{
 		text-decoration: none;
 		color: rgba(255,255,255,.3);
+	}
+/************************************************************************/
+/* Counter 																*/
+/************************************************************************/
+
+	#counter {
+		margin-top:0em;
+		margin-bottom:0em;
+	
 	}	
